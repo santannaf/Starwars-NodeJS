@@ -1,0 +1,38 @@
+#visual studio code
+.vscode/
+
+.idea/
+
+#visual studio full
+.vs/
+*.xproj
+*.xproj.user
+Properties/
+
+#dotnet core
+project.lock.json
+
+#build results
+bin/
+obj/
+
+#node modules
+node_modules/
+*.log
+
+#publish
+**/AWS/publish/
+**/AWS/output/
+*.zip
+
+# Dist dir
+dist
+
+.env
+coverage/
+.nyc_output
+logs/
+config/localhost.json
+.scannerwork
+.scannerwork/**
+scripts/.scannerwork/**

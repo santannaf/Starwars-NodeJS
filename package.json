@@ -1,0 +1,19 @@
+{
+  "name": "API StarWars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "config": "^3.0.1",
+    "hapi": "^18.0.1",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "NODE_PATH=. node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thales Farias",
+  "license": "ISC"
+}

@@ -1,0 +1,10 @@
+{
+    "timezone": "America/Sao_Paulo",
+    "env": "localhost",
+    "server": {
+        "port": 8080
+    },
+    "starwars": {
+        "host": "https://swapi.co/api"
+    }
+}
