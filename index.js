@@ -24,7 +24,7 @@ const deployment = async () => {
     return server
 }
 
-async function start() {
+const start = async () => {
 
     try {
         const server = await deployment()

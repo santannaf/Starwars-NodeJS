@@ -7,7 +7,6 @@ function route(server) {
             method: 'GET',
             path: '/planets',
             config: {
-                //pre,
                 handler: request
             }
         },
